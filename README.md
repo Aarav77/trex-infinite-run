@@ -1,1 +1,1 @@
-# trex-infinite-run
+# trex
